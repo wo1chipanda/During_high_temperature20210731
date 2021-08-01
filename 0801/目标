@@ -5,3 +5,6 @@
   1.4.检查test dll.cpp图像错误原因 5，把能写到一起的kernel写到一起
 2.一边做实验一边把结果截图，进行优化前后对比，写一个说明文档
 3.试试二维fft，或者将结果展开，利用共享内存或者纹理内存
+
+
+![image](https://github.com/wo1chipanda/During_high_temperature20210731/blob/main/0801/1.%E6%96%B0%E6%A1%86%E6%9E%B6_v1_%E5%8A%A0%E5%85%A52D3D%E9%80%89%E6%8B%A9%E6%8C%89%E9%92%AE.png)
